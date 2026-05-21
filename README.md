@@ -46,7 +46,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:**  GAYATHRI S 
+## **Name:**  GAYATHRI S 
 
 ### Register No: 212224230073  
 
@@ -68,18 +68,13 @@ Video is displayed after rotation (90° clockwise)
 
 ---
 
-<img width="766" height="627" alt="image" src="https://github.com/user-attachments/assets/7f0bc33b-76da-46e2-8ad4-229a0b5ac689" />
+<img width="737" height="612" alt="image" src="https://github.com/user-attachments/assets/496d6f15-407b-4f97-93cb-e3f36a6529fa" />
 
+<img width="710" height="565" alt="image" src="https://github.com/user-attachments/assets/c381003a-41af-4b53-a0de-519e992a0d47" />
 
+<img width="413" height="477" alt="image" src="https://github.com/user-attachments/assets/7cac6643-cd00-4d5f-a343-67c7c603cc50" />
 
-<img width="734" height="566" alt="image" src="https://github.com/user-attachments/assets/95612deb-d63e-40ac-b23e-6efe61088232" />
-
-
-<img width="382" height="561" alt="image" src="https://github.com/user-attachments/assets/6d33e10b-fca3-4ff0-8653-6c2d63b8fce1" />
-
-
-<img width="431" height="564" alt="image" src="https://github.com/user-attachments/assets/f15e308a-4c24-499e-9515-d26551195785" />
-
+<img width="423" height="567" alt="image" src="https://github.com/user-attachments/assets/d740f867-0ab1-46ad-91cd-1f80756a867a" />
 
 ## Result
 
